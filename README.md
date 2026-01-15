@@ -48,7 +48,7 @@ jobs:
       - name: Set up Xcode
         uses: maxim-lobanov/setup-xcode@v1
         with:
-          xcode-version: '16.0'
+          xcode-version: '16.4'
 
       - name: Install CocoaPods
         run: |
